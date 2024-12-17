@@ -1,0 +1,26 @@
+# Node.js and npm
+node_modules/
+npm-debug.log
+
+# Express and MERN
+build/
+config/
+logs/
+
+# MongoDB and Mongoose
+data/
+mongod.lock
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Other
+.env
+coverage/
+dist/
+tmp/
